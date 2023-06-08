@@ -30,7 +30,7 @@ Check out the live demo of the project [here](https://emidiovaleretto.github.io/
 
 ## Installation Instructions
 
-1. Clone the repository: `git clone https://github.com/emidiovaleretto/rocketseat-project-03.git`
+1. Clone the repository: `git clone https://github.com/emidiovaleretto/rocketseat-project-04.git`
 2. Open the project folder:
 3. Open the `index.html` file in your preferred web browser.
 

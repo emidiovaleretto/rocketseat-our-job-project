@@ -1,6 +1,6 @@
 ![Explorer](https://efficient-sloth-d85.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F74dec54c-b44a-4c7e-adbd-f8a069b98b7b%2FCapa_Notion_-_Explorer.png?table=block&id=19dfbff7-b19c-47c5-9a28-6afa37d42543&spaceId=08f749ff-d06d-49a8-a488-9846e081b224&width=2000&userId=&cache=v2)
 
-# Rocketseat - Project 04 - Layout Responsiveness
+# Rocketseat - Our Job Project - Layout Responsiveness
 
 ## Table of Contents
 
@@ -26,12 +26,12 @@ This project is part of the Rocketseat bootcamp and focuses on building a single
 
 ## Live Demo
 
-Check out the live demo of the project [here](https://emidiovaleretto.github.io/rocketseat-project-04/).
+Check out the live demo of the project [here](https://emidiovaleretto.github.io/rocketseat-our-job-project/).
 
 ## Installation Instructions
 
-1. Clone the repository: `git clone https://github.com/emidiovaleretto/rocketseat-project-04.git`
-2. Open the project folder:
+1. Clone the repository: `git clone https://github.com/emidiovaleretto/rocketseat-our-job-project.git`
+2. Open the project folder: `cd rocketseat-our-job-project`
 3. Open the `index.html` file in your preferred web browser.
 
 ## Features
